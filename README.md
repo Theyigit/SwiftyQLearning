@@ -15,7 +15,7 @@ SwiftyQlearning is a [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-lear
  
 ## USAGE
 
-SwiftQLearning use a .txt file for maze information. User make three inputs that start room, exit room and iteration according to room size of maze. Algorithm succeed how big iteration is. 
+SwiftyQLearning use a .txt file for maze information. User make three inputs that start room, exit room and iteration according to room size of maze. Algorithm succeed how big iteration is. 
 
 ### Input Style
 
