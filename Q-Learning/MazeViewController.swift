@@ -17,6 +17,7 @@ class MazeViewController: UIViewController{
     var animationData = AnimationData()
     var accessor = QLearningData()
     var mazeIndexController:Int = 0
+    var trivialValueable:Int = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
