@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://mit-license.org)
 [![Platform](http://img.shields.io/badge/platform-ios-lightgrey.svg?style=flat)](https://developer.apple.com/resources/)
 
-SwiftyQlearning is a [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-learning) that find the exit path of a maze in iOS.
+SwiftyQlearning is a [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-learning) that find the exit path of a maze on iOS.
 
 ### Preview
 <p align="center">
